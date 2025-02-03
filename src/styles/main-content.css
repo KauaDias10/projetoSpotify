@@ -1,0 +1,13 @@
+/*HEADER */
+
+.main-container{
+    max-width: 80vw; /*largura maxima view width (ocupação da tela, serve reponsividade)*/
+    max-height: 100vh;
+    margin-left: 320px;
+    margin-right: 56px;
+}
+
+.header__navigation{
+    display: flex;
+    justify-content: space-between; /*distribui o espaçamento em comum*/
+}
